@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "crummyevents@1.1.0",
+      "C:\\Users\\cody\\Documents\\Projects\\Crummy\\ledger"
+    ]
+  ],
+  "_from": "crummyevents@1.1.0",
+  "_id": "crummyevents@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-YJ4oNmLjCxi/HsyIMsrxNeGhKTmlLUtQFvMMzIDbm3lQE4FDrJxEwe7mBgOXZ7Y7HtfABgLFLGXPSM1UMecGxQ==",
+  "_location": "/crummyevents",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "crummyevents@1.1.0",
+    "name": "crummyevents",
+    "escapedName": "crummyevents",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/crummyevents/-/crummyevents-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "C:\\Users\\cody\\Documents\\Projects\\Crummy\\ledger",
+  "author": {
+    "name": "Cody Crumrine"
+  },
+  "bugs": {
+    "url": "https://github.com/crummyindeed/events/issues"
+  },
+  "dependencies": {
+    "elliptic": "^6.5.2"
+  },
+  "description": "Event Creation Signing and Verification for Crummy Consensus Protocol",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  },
+  "homepage": "https://github.com/crummyindeed/events#readme",
+  "keywords": [
+    "crummy",
+    "events",
+    "ledger",
+    "distributed",
+    "crypto",
+    "signatures",
+    "pow"
+  ],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "name": "crummyevents",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crummyindeed/events.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.1.0"
+}
